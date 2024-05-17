@@ -1,0 +1,4 @@
+# output "aws_organizations_account" {
+#     value = aws_organizations_account.COMMON.id
+  
+# }
